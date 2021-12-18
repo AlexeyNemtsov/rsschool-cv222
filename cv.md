@@ -1,4 +1,4 @@
-[1]: https://github.com/AlexeyNemtsov/rsschool-cv "rsschool-cv"
+[1]: https://github.com/AlexeyNemtsov/rsschool-cv/cv "rsschool-cv"
 # Nemtsov Alexey
 nemtsovalex@tut.by | +375291245823 | July, 25, 1994 | Minsk
 *** 
@@ -45,7 +45,16 @@ Experienced, good team player, always ready to help my teammates. Wide open to n
 1. Russian (native), Belarussian (native) English (upper intermediate), Hebrew (basic)
 1. Sales, Communication, Event Organization, Finance and credit, Logistics
 
+## Code examples
+```
+function multiply(a, b){
+  return a * b
+}
+```
+
 [Me in social media][2]
 
 [3]: https://vk.com/nemtsov94 "My VK profile"
 [4]: https://github.com/alexeynemtsov "My GitHub account"
+[5]: https://discord.com/channels/%D0%9B%D0%B5%D1%88%D0%B0#9790 "My Discord"
+
