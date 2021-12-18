@@ -1,4 +1,3 @@
-[1]: https://github.com/AlexeyNemtsov/rsschool-cv/cv "rsschool-cv"
 # Nemtsov Alexey
 nemtsovalex@tut.by | +375291245823 | July, 25, 1994 | Minsk
 
@@ -52,13 +51,9 @@ function multiply(a, b){
 }
 ```
 
-[Me in social media][2]
+[My VK profile](https://vk.com/nemtsov94 "My VK profile")
 
-[2]: https://vk.com/nemtsov94 "My VK profile"
+[My GitHub account](https://github.com/alexeynemtsov "My GitHub account")
 
-[My GitHub account][3]
-[3]: https://github.com/alexeynemtsov "My GitHub account"
-
-[My Discord][4]
-[4]: https://discord.com/channels/%D0%9B%D0%B5%D1%88%D0%B0#9790 "My Discord"
+[My Discord](https://discord.com/channels/%D0%9B%D0%B5%D1%88%D0%B0#9790 "My Discord")
 
