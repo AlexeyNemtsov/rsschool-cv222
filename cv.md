@@ -1,15 +1,20 @@
-#[1]: https://github.com/AlexeyNemtsov/rsschool-cv "rsschool-cv"
+[1]: https://github.com/AlexeyNemtsov/rsschool-cv "rsschool-cv"
 # Nemtsov Alexey
 nemtsovalex@tut.by | +375291245823 | July, 25, 1994 | Minsk
 *** 
 ![Photo][1]
 
-[1]: https://vk.com/nemtsov94?z=photo71746927_343868052%2Falbum71746927_0%2Frev "My photo"
+[2]: https://vk.com/nemtsov94?z=photo71746927_343868052%2Falbum71746927_0%2Frev "My photo"
+
+## About myself
+
+Experienced, good team player, always ready to help my teammates. Wide open to new knowledges and opportunities.
+
 ## Experience
 
 1. **APS transport company, Belarus**
 
-* December 2018 – present day, Belarus | Israel
+* December 2018 – present day, Belarus | Belarus
     * Working with international transport documents
     * Organizing international transportations by trucks
     * Holding meetings with clients
@@ -42,5 +47,5 @@ nemtsovalex@tut.by | +375291245823 | July, 25, 1994 | Minsk
 
 [Me in social media][2]
 
-[2]: https://vk.com/nemtsov94 "My VK profile"
-[3]: https://github.com/alexeynemtsov "My GitHub account"
+[3]: https://vk.com/nemtsov94 "My VK profile"
+[4]: https://github.com/alexeynemtsov "My GitHub account"
