@@ -1,7 +1,7 @@
 # Nemtsov Alexey
 nemtsovalex@tut.by | +375291245823 | July, 25, 1994 | Minsk
 
-![My photo](https://vk.com/nemtsov94?z=photo71746927_457239505%2Falbum71746927_0%2Frev)
+![My photo](https://www.google.com/search?q=smile&tbm=isch&ved=2ahUKEwjblvXsjNT2AhV_XvEDHV50AN0Q2-cCegQIABAA&oq=smile&gs_lcp=CgNpbWcQAzIECAAQQzIECAAQQzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIIxDvAxAnOggIABCABBCxAzoLCAAQgAQQsQMQgwE6CggjEO8DEOoCECdQ1wpYyTFg4jJoAXAAeACAAV-IAe0EkgEBN5gBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=1s42YtvTMf-8xc8P3uiB6A0&bih=710&biw=1440&rlz=1C5CHFA_enBY971BY974#imgrc=YobUVBcMbiLO_M)
 
 ## About myself
 
